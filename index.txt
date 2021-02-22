@@ -1,1 +1,13 @@
 Iya astaga ini lagi belajar kok
+
+Git init (untuk inisialisasi)
+
+git add (nambah filr yg berubah)
+
+git commit (buat konfirmasi? atau sejenisnya)
+
+git checkout, revert, reset untuk  balik ke commit sbelumnya
+
+git push buat up file
+
+git pull buat download
